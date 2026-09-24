@@ -1,4 +1,4 @@
-Project Overview
+**Project Overview**
 This project was completed as part of my Data Analytics learning journey, focusing on Microsoft Excel for Data Exploration and Analysis.
 The objective of this assignment was to perform basic data analysis, logical categorization, conditional aggregation, and text manipulation using Excel formulas and functions. This project demonstrates foundational spreadsheet skills that are essential for data cleaning, exploration, and reporting.
 As an aspiring Data Analyst, I am building this repository to showcase my practical Excel skills and portfolio projects.
